@@ -1,0 +1,22 @@
+{
+  "name": "atf_playwright",
+  "version": "1.0.0",
+  "description": "A basic Playwright automation framework built using TypeScript, following the Cucumber BDD approach and the Page Object Model (POM) design pattern.",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ankit2021te/atf_playwright.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ankit2021te/atf_playwright/issues"
+  },
+  "homepage": "https://github.com/ankit2021te/atf_playwright#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.56.1",
+    "@types/node": "^24.10.0"
+  }
+}
